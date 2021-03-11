@@ -7,5 +7,5 @@ This is lhr's room
 
 * homework
 * something useful
-* practise file for python
+* practice file for python
 
