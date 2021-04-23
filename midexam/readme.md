@@ -11,5 +11,5 @@ test.csv and train.csv is Official website data of Titanic
 
 i find a interest code that is godlike.ipynb which is caculated by adjusted parameters  
 It has nothing to do with my homework but i love it, so i put it here  
-gptest.csv is the result it get a high point in kaggle  
+gptest.csv is the result which get a high point in kaggle  
   
